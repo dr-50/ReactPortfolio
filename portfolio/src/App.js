@@ -3,6 +3,7 @@ import coverHeaderImage from "./assets/cover/cover-header-image.jpg"
 // import About from './components/About'
 import Nav from './components/pages/Nav'
 import PortfolioContainer from './components/PortfolioContainer'
+import GitHubLogo from "./assets/images/GitHub-Mark-32px.png"
 
 import './App.css';
 
@@ -13,6 +14,9 @@ function App() {
       <main>
         <PortfolioContainer />
       </main>
+      <footer>
+            <a href="https://github.com/dr-50"> <img src={GitHubLogo} /> </a>
+      </footer>
     </div>
   )
 }
