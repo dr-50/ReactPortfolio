@@ -46,3 +46,25 @@ header {
 section {
   margin: 0 20px;
 }
+
+
+.email-input, .message-input {
+  width: 50%;
+  margin: 5px 10px;
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+.message-input {
+  height: 150px;
+}
+
+.email-label, .message-label {
+  display: inline-block;
+  vertical-align: text-top;
+  
+}
+
+.email-label, .email-name-label{
+  margin-right: 25px;
+}
