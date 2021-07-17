@@ -62,9 +62,15 @@ section {
 .email-label, .message-label {
   display: inline-block;
   vertical-align: text-top;
-  
 }
 
 .email-label, .email-name-label{
   margin-right: 25px;
+}
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: var(--quanternary);
 }

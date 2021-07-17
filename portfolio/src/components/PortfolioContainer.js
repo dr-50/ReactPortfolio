@@ -4,6 +4,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
+import GitHubLogo from "../assets/images/GitHub-Mark-32px.png"
 
 
 function PortfolioPage() {
@@ -29,6 +30,9 @@ function PortfolioPage() {
                 <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
             }
             <div>{renderPage(currentPage)}</div>
+            <footer>
+            <a href="https://github.com/dr-50"> <img src={GitHubLogo} /> </a>
+            </footer>
         </div>    
     )
 }
