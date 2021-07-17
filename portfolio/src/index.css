@@ -42,6 +42,7 @@ header {
   display: flex;
   justify-content: space-between;
   text-decoration:none;
+  background-color: var(--secondary);
 }
 
 section {
@@ -81,4 +82,44 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
   background-color: var(--quanternary);
+}
+
+.portfolio-cards{
+  margin-top:15px;
+}
+
+.resume{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-items: center;
+  align-content: center;
+  margin: 20px;
+}
+
+.resume-link {
+  margin-bottom: 20px;
+}
+
+.resume-image {
+  margin-top: 20px;
+}
+
+.resume-download a {
+  font-weight:bolder;
+  text-decoration: underline;
+  color: var(--quanternary);
+}
+.portfolio-card {
+  border: black 1px solid;
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: var(--tertiary);
+}
+.project-image{
+  width: 300px;
 }

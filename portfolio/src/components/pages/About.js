@@ -19,9 +19,9 @@ function About() {
       <p>
         Self proclaimed forever student. Eager to build on current academic
         foundations in Business and Economics as well as branching into new
-        areas including and similar to web development.
+        areas including to web development.
       </p>
-      <h3></h3>
+    
     </section>
   );
 }
