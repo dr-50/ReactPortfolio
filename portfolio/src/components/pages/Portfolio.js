@@ -73,7 +73,7 @@ function Portfolio(){
     <div className="portfolio-card six">
     <div className="portfolio-description">
             <h2>Tech Blog</h2>
-            <p>Show off to all of your friends with all of your tech related prowess!</p>
+            <p>Show off to all of your friends with your tech related prowess!</p>
         </div>
         <div class="portfolio-links">
         <img src={techblogImg} className="project-image" alt="" />
