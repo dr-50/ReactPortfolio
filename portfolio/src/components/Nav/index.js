@@ -16,8 +16,14 @@ function Nav() {
                             About Me
                         </a>
                     </li>
+                    <li className="mx-2">
+                        <a href="#portfolio">Portfolio</a>
+                    </li>
                     <li>
                         <span>Contact</span>
+                    </li>
+                    <li className="mx-2">
+                        <a href="#resume">Resume</a>
                     </li>
                 </ul>
             </nav>

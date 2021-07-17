@@ -16,7 +16,10 @@ ul {
 
 li, a {
   float: left;
-  margin: 0 5px;
+  margin: 0 20px;
+  text-decoration: none;
+  color: var(--quanternary);
+  font-weight: bold;
 }
 
 body {
@@ -36,7 +39,10 @@ code {
 
 header {
   display: flex;
-  flex: wrap;
   justify-content: space-between;
+  text-decoration:none;
 }
 
+section {
+  margin: 0 20px;
+}
