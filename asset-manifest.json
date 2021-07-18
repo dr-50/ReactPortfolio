@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.04669eaf.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.cfa445ae.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.cfa445ae.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.d2a16d3d.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.d2a16d3d.js.map",
+    "static/js/2.7c82f285.chunk.js": "/ReactPortfolio/static/js/2.7c82f285.chunk.js",
+    "static/js/2.7c82f285.chunk.js.map": "/ReactPortfolio/static/js/2.7c82f285.chunk.js.map",
+    "static/js/3.b436d50b.chunk.js": "/ReactPortfolio/static/js/3.b436d50b.chunk.js",
+    "static/js/3.b436d50b.chunk.js.map": "/ReactPortfolio/static/js/3.b436d50b.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.04669eaf.chunk.css.map": "/ReactPortfolio/static/css/main.04669eaf.chunk.css.map",
+    "static/js/2.7c82f285.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.7c82f285.chunk.js.LICENSE.txt",
+    "static/media/Resume.e43252ce.pdf": "/ReactPortfolio/static/media/Resume.e43252ce.pdf",
+    "static/media/ResumePageOne.70050adc.JPG": "/ReactPortfolio/static/media/ResumePageOne.70050adc.JPG",
+    "static/media/personal-photo.99d13b6b.jpg": "/ReactPortfolio/static/media/personal-photo.99d13b6b.jpg",
+    "static/media/website-icon-29492-Windows.d7b7b4ea.ico": "/ReactPortfolio/static/media/website-icon-29492-Windows.d7b7b4ea.ico",
+    "static/media/work-calendar.f505ee6c.jpg": "/ReactPortfolio/static/media/work-calendar.f505ee6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a16d3d.js",
+    "static/js/2.7c82f285.chunk.js",
+    "static/css/main.04669eaf.chunk.css",
+    "static/js/main.cfa445ae.chunk.js"
+  ]
+}
