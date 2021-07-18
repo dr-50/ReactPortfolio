@@ -5,7 +5,7 @@ function Nav(props) {
     return (
         <header>
             <h2>
-                <a href="/">
+                <a href="https://dr-50.github.io/ReactPortfolio/">
                 <span>Devon Ross</span>
                 </a>
             </h2>
