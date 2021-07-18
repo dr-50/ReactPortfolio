@@ -13,7 +13,7 @@ function About() {
       />
       <h3>Current Responsibilities</h3>
       <p>
-        Current an embedded technical resource for a forecasting department within a Fortune 500 company. 
+        Currently an embedded technical resource for a forecasting department within a Fortune 500 company. 
       </p>
       <h3>Passions</h3>
       <p>
