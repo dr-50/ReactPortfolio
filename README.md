@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Description
-A collection of personal projects and brief information around myself
+A collection of personal projects and brief information around myself.
 
 ![screenshot](./portfolio/src/assets/images/ReadMe-photo.JPG)
 
