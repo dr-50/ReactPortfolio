@@ -4,7 +4,8 @@ import songsAndSpirts from "../../assets/images/songs-and-spirts.jpg"
 import weatherImg from "../../assets/images/weather.jpg"
 import runBuddyImg from "../../assets/images/run-buddy.png"
 import workCalendarImg from "../../assets/images/work-calendar.jpg"
-import techblogImg from "../../assets/images/techblog.jpg"
+//import techblogImg from "../../assets/images/techblog.jpg"
+import bustedbracketsImg from "../../assets/images/busted-brackets.JPG"
 import GitHubLogo from "../../assets/images/GitHub-Mark-32px.png"
 import WebLinkLogo from "../../assets/images/website-icon-29492-Windows.ico"
 
@@ -72,13 +73,13 @@ function Portfolio(){
 
     <div className="portfolio-card six">
     <div className="portfolio-description">
-            <h2>Tech Blog</h2>
-            <p>Show off to all of your friends with your tech related prowess!</p>
+            <h2>Busted Bracket</h2>
+            <p>Challenge your friends in a tournament style competition!</p>
         </div>
         <div class="portfolio-links">
-        <img src={techblogImg} className="project-image" alt="" />
-        <a href="https://github.com/dr-50/TechBlog"><img src={GitHubLogo} alt=""/> </a>
-        <a href="https://tech-blog-dr-50.herokuapp.com/"><img src={WebLinkLogo} width="32px" alt=""/> </a>
+        <img src={bustedbracketsImg} className="project-image" alt="" />
+        <a href="https://github.com/adamlsn/busted-brackets"><img src={GitHubLogo} alt=""/> </a>
+        <a href="https://limitless-wildwood-05739.herokuapp.com/"><img src={WebLinkLogo} width="32px" alt=""/> </a>
         </div>
     </div>
 
